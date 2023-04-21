@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  background-color: rgb(206, 202, 8);
+}
+
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+h1 {
+  border: 4px solid black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+a {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 1.5rem;
+}
+
+a:hover {
+  background-color: greenyellow;
+  border: 1px solid yellowgreen;
+}
+
+img {
+  border-radius: 15px;
+  border: 2px solid red;
+  margin-top: 30px;
+}
+
+p {
+  color: aqua;
+  font-size: 1.3rem;
+} 

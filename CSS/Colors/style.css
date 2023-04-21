@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: rgb(0, 0, 255);
+}
+
+h3 {
+  color: hsl(300, 80%, 50%)
+}
+
+h4 {
+  color: #ffff00;
+}
+
+.black {
+  background-color: black;
+}
+
+.beige {
+  background-color: rgb(245, 245, 210);
+}
+
+.green {
+  background-color: hsl(120, 80%, 20%);
+}
+
+.purple {
+  background-color: #800080;
+}
